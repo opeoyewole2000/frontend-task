@@ -1,0 +1,135 @@
+body{
+	
+
+}
+#topDiv{
+
+	background:#3b5998;
+	width:auto;
+	height:100px;
+
+}
+#topDivLeft{
+width:700px;
+float: left;
+}
+#logoDiv{
+
+margin-left: 170px;
+padding-top: 30px;
+
+}
+img.fb_logo{
+width: 200px;
+height:60px;
+
+}
+img.mainDivImage{
+	margin-left: 135px;
+width: 600px;
+height:400px;
+
+}
+#topDivRight{
+width: 500px;
+float: right;
+
+
+}
+#mainDiv{
+
+background: -webkit-linear-gradient(white, #dfe3ee); /* For Safari 5.1 to 6.0 */
+background: -o-linear-gradient(white, #dfe3ee); /* For Opera 11.1 to 12.0 */
+background: -moz-linear-gradient(white, #dfe3ee); /* For Firefox 3.6 to 15 */
+background:linear-gradient(white, #dfe3ee);
+height: 650px;
+width: auto;
+/*border: 2px solid black;*/
+}
+
+
+
+#mainDivLeft{
+width: 750px;
+float: left;
+/*border: 2px solid black;*/
+
+}
+#mainDivRight{
+	width: 550px;
+	float: right;
+	/*border: 2px solid black;*/
+}
+
+table.topDivTable{
+	margin-top: 20px;
+	font-size: 15px;
+	color: white;
+	width:490px;
+	/*border:2px solid black;*/
+}
+#footerDiv{
+height: 150px
+
+}
+#footerContentDiv{
+width:1000px;
+/*border: 1px solid black;*/
+margin-left: 170px;
+height: 150px;
+}
+.inputField{
+height:35px;
+border-radius: 6px;
+border-style:solid;
+margin-bottom: 10px;
+border-width: 1px;
+border-color: #dfe3ee;
+font-size: 20px; 
+
+
+}
+.buttonLogIn{
+background: #4267b2;
+color:white;
+font-weight: bold;
+border-style: solid;
+border-color: #29487D;
+border-width: 1px;
+height: 25px;
+cursor: hand;
+}
+.buttonLogIn:hover{
+background: #3b5998;
+font-weight: bold;
+}
+
+.buttonCreateAccount{
+
+height: 40px;
+color: white;
+background: #619F4E;
+border-style: solid;
+border-radius: 6px;
+width: 250px;
+font-weight: bold;
+font-size: 15px;
+border-color: #3B6E22;
+cursor:hand;
+}
+.buttonCreateAccount:hover{
+
+}
+a{
+
+	color: #365899;
+	text-decoration: none;
+}
+a.forgotten{
+	color: #92B4D0;
+	text-decoration:none;
+}
+a:hover{
+	text-decoration: underline;
+
+}
